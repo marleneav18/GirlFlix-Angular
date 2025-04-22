@@ -6,7 +6,8 @@ Descripción: Este es un sitio web de peliculas y series enfocadado en mujeres, 
 
 Objetivo: Lograr las funcionalidades restantes de la página, solo dejando pendiente el BackEnd.
 
-mport { TarjetaPeliculaComponent } from '../tarjeta-pelicula/tarjeta-pelicula.component'; // Importa TarjetaPeliculaComponent
+<img width="1432" alt="Captura de pantalla 2025-04-22 a la(s) 5 59 06 a m" src="https://github.com/user-attachments/assets/b84b2abc-7fd7-429b-b4d7-7fe250090536" />
+
 ##Captura de pantalla del proyecto ejecutandose
 
 **Instrucciones de como descargar el repo:**
