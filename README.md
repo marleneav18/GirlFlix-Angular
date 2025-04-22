@@ -6,7 +6,8 @@ Descripción: Este es un sitio web de peliculas y series enfocadado en mujeres, 
 
 Objetivo: Lograr las funcionalidades restantes de la página, solo dejando pendiente el BackEnd.
 
-<img width="1432" alt="Captura de pantalla 2025-04-22 a la(s) 5 59 06 a m" src="https://github.com/user-attachments/assets/b84b2abc-7fd7-429b-b4d7-7fe250090536" />
+<img width="1432" alt="Captura de pantalla 2025-04-22 a la(s) 5 59 54 a m" src="https://github.com/user-attachments/assets/f65a1215-1dbe-4f9f-bfb7-ce060df75a7b" />
+
 
 ##Captura de pantalla del proyecto ejecutandose
 
